@@ -20,7 +20,7 @@ class CartItem(object):
 
     def to_dict(self):
         return {
-            'product_pk': self.product.pk,
+            'product_pk': str(self.product.pk),
             'quantity': self.quantity,
             'price': str(self.price),
         }

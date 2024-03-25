@@ -1,6 +1,16 @@
 django-carton-1.2.1
 ===================
 
+Date:  March 25, 2024.
+
+* Allow for UUID to be used as product pk
+
+
+* * *
+
+django-carton-1.2.1
+===================
+
 Date:  Febuary, 2016.
 
 * Fix Django 1.9 compatibility issues with the import module
